@@ -1,0 +1,1 @@
+console.log("u picked the wrong language fool!")
